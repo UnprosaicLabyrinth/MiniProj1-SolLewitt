@@ -1,2 +1,2 @@
 # Proj1-SolLewitt
-ART 151 mini project 1
+ART 151 mini project #1
