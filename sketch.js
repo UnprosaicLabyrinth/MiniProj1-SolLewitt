@@ -9,7 +9,7 @@ function draw()
 {
     background(220);
     fill(255, 0);
-    for (let i = 2 * windowWidth; i >= 2 * s; i -= (2 * s)) {
+    for (let i = 2 * width; i >= 2 * s; i -= (2 * s)) {
         circle(width / 2, 0, i);
         // circle(width, 0, i);
         circle(width, height / 2, i);
