@@ -15,6 +15,7 @@ function draw()
         circle(width, height / 2, i);
         circle(width / 2, height, i);
         circle(0, height / 2, i);
+        stroke(i, 255 - i, 0);
         circle(width / 2, height / 2, i);
     }
 }
